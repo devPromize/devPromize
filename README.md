@@ -1,10 +1,24 @@
-<h1>Hi 👋, I am Izuchukwu Promise - aka devPromise</h1>
-<h3>I am a Diligent frontend developer on a journey to turn ideas into interactive and visiually appealing web experiences.</h3>
-<ul >
-<li>🌱 I am adept in html, css, javascript, react, next, bootstrap and tailwind </li>
-<li>💞️ I’m looking to collaborate on <b>open-source projects</b></li>
-<li>📫 How to reach me @izuchukwupromise01@gmail.com</li>
+<h3>
+Frontend Developer focused on building digital products that solve real problems and create meaningful user experiences.
+</h3>
+
+<ul>
+  <li>🚀 Building with TypeScript, React, Next.js, Tailwind CSS, Node.js, and Supabase</li>
+
+  <li>💡 Interested in Digital Health, E-commerce, SaaS, and Product Development</li>
+
+  <li>🌱 Continuously learning and improving my skills as a developer</li>
+
+  <li>🤝 Open to collaborating on open-source and impactful projects</li>
+
+  <li>📫 Reach me at: <b>izuchukwupromise01@gmail.com</b></li>
 </ul>
+
+  <li>📫 Reach me at: <b>izuchukwupromise01@gmail.com</b></li>
+</ul>
+
+<p>
+My goal is to create technology that not only looks great but also solves meaningful problems, empowers people, and delivers measurable value to businesses and communities.
 
 
 <!---
